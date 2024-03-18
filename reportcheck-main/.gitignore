@@ -1,0 +1,9 @@
+*.zip
+test/
+train/
+env/
+__pycache__/
+.conda/
+report.csv
+
+
